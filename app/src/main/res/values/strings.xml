@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SqliteAssignment</string>
+    <string name="name">Insert your name</string>
+    <string name="phone">Insert your phoneNo</string>
+    <string name="saveBt">Save</string>
+    <string name="updateBt">Update</string>
+    <string name="deleteBt">Delete</string>
+    <string name="addBt">Add new Contact</string>
+
+</resources>
